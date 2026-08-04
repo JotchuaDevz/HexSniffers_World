@@ -6,10 +6,10 @@
     "url": "https://raw.githubusercontent.com/JotchuaDevz/HexSniffers_World/refs/heads/main/fenix_decrypted.json"
   },
   {
-    "nombre": "Server US East",
-    "imagen": "ic_flag_us",
-    "info": "Hysteria2, ideal para streaming",
-    "url": "https://tuservidor.com/configs/us_east.json"
+    "nombre": "TunnelDoom VPN",
+    "imagen": "https://raw.githubusercontent.com/JotchuaDevz/HexSniffers_World/main/tunneldoom.png",
+    "info": "Version : 288",
+    "url": "https://raw.githubusercontent.com/JotchuaDevz/HexSniffers_World/refs/heads/main/tunneldoom_decrypted.json"
   },
   {
     "nombre": "Server Trojan EU",
