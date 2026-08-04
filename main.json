@@ -1,9 +1,9 @@
 [
   {
-    "nombre": "Server MX 1",
-    "imagen": "https://tuservidor.com/img/mx1.png",
-    "info": "SSH + V2Ray, baja latencia CDMX",
-    "url": "https://tuservidor.com/configs/mx1.json"
+    "nombre": "HTTP FenixVPN",
+    "imagen": "https://github.com/JotchuaDevz/HexSniffers_World/blob/main/ic_na.png",
+    "info": "Version : 1534",
+    "url": "https://raw.githubusercontent.com/JotchuaDevz/HexSniffers_World/refs/heads/main/fenix_decrypted.json"
   },
   {
     "nombre": "Server US East",
