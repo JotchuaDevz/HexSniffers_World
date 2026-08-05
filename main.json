@@ -12,9 +12,9 @@
     "url": "https://raw.githubusercontent.com/JotchuaDevz/HexSniffers_World/refs/heads/main/tunneldoom_decrypted.json"
   },
   {
-    "nombre": "Server Trojan EU",
-    "imagen": "https://tuservidor.com/img/eu.png",
-    "info": "Trojan + XHTTP puerto 80",
-    "url": "https://tuservidor.com/configs/eu_trojan.txt"
+    "nombre": "SpeiGoVPN",
+    "imagen": "https://raw.githubusercontent.com/JotchuaDevz/HexSniffers_World/main/spei.png",
+    "info": "Version : 3",
+    "url": "https://raw.githubusercontent.com/JotchuaDevz/HexSniffers_World/refs/heads/main/speigo_decrypted.json"
   }
 ]
